@@ -1,1 +1,1 @@
-# função percentagem (versão 0.3)
+#conflito resolvido_ versão final
